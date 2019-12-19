@@ -4,7 +4,9 @@ import { Component } from '@angular/core';
   selector: 'page-14',
   template: `
     <div class="slide">
-      empty
+      <div class="img">
+        <img src="assets/read-not.jpg">
+      </div>
     </div>
   `
 })
